@@ -16,6 +16,7 @@ Welcome to **Awesome Project Ideas** — a curated collection of inspiring, prac
 ## 🧠 Why This Repo Exists
 
 Whether you're:
+
 - Brainstorming for a new hackathon 💻
 - Planning a portfolio project 📁
 - Looking for a startup MVP idea 🚀
